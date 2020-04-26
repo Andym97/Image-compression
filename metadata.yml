@@ -1,0 +1,12 @@
+---
+:id: 11281885
+:submitters:
+- :name: Andy Mui
+  :email: andy_mui@my.uri.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2018-11-13 04:25:28.027887000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2018-11-12 20:25:28.027887000 Z
+:status: processed
+:score: 70.0
