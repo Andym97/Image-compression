@@ -1,0 +1,12 @@
+# Image-compression
+
+Files:
+a2plain.c
+a2blocked.c
+array2b.c
+bitpack.c
+compress.c
+image.c
+
+Purpose: 
+Reads in an image of ppm format, mapped into 2*2 blocks and packed/unpacked into a 32-bit word based on the command given on the command line.
